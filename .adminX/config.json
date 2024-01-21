@@ -1,0 +1,11 @@
+{
+  "media": {
+    "root": "exampleSite/assets/images",
+    "public": "exampleSite/assets"
+  },
+  "environment": "Hugo",
+  "content": {
+    "root": "exampleSite/content"
+  },
+  "themeConfig": []
+}
