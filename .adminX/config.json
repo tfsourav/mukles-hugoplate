@@ -6,5 +6,13 @@
   "content": {
     "root": "exampleSite/content"
   },
-  "themeConfig": []
+  "themeConfig": [],
+  "arrangement": {
+    "exampleSite/content/english": {
+      "blog-index": {
+        "include": "*.md",
+        "exclude": "!*index.md"
+      }
+    }
+  }
 }
