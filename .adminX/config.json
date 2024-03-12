@@ -15,7 +15,7 @@
       }
     },
     "exampleSite/content/english/blog": {
-      "blog-list": {
+      "test-blog": {
         "include": "*.md",
         "exclude": "!*index.md"
       }
