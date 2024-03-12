@@ -8,8 +8,8 @@
   },
   "themeConfig": [],
   "arrangement": {
-    "exampleSite/content/english": {
-      "blog-index": {
+    "exampleSite/content/english/about": {
+      "about": {
         "include": "*.md",
         "exclude": "!*index.md"
       }
