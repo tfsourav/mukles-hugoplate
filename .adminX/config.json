@@ -10,9 +10,9 @@
   "arrangement": {
     "exampleSite/content/english/blog": {
       "blog-index": {
-        "weight": 1
+        "weight": 4
       },
-      "weight": 1
+      "weight": 4
     },
     "exampleSite/content/english/authors": {
       "weight": 0
@@ -24,13 +24,13 @@
       "weight": 3
     },
     "exampleSite/content/english/contact": {
-      "weight": 4
-    },
-    "exampleSite/content/english/pages": {
       "weight": 5
     },
-    "exampleSite/content/english/sections": {
+    "exampleSite/content/english/pages": {
       "weight": 6
+    },
+    "exampleSite/content/english/sections": {
+      "weight": 7
     }
   }
 }
