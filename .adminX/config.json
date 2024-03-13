@@ -12,7 +12,8 @@
       "blog-index": {
         "include": "*.md",
         "exclude": "!*index.md"
-      }
+      },
+      "weight": 1
     }
   }
 }
