@@ -11,6 +11,10 @@
     "exampleSite/content/english/blog": {
       "blog-index": {
         "weight": 3
+      },
+      "blog-test": {
+        "include": "*.md",
+        "exclude": "!*index.md"
       }
     },
     "exampleSite/content/english/about": {
