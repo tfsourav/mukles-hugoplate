@@ -7,7 +7,5 @@
     "root": "exampleSite/content"
   },
   "themeConfig": [],
-  "arrangement": {
-   
-  }
+  "arrangement": {}
 }
