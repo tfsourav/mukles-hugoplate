@@ -8,14 +8,6 @@
   },
   "themeConfig": [],
   "arrangement": {
-    "exampleSite/content/english/blog": {
-      "test-blog": {
-        "weight": 1
-      },
-      "blog-index": {
-        "weight": 2
-      },
-    },
     
   }
 }
