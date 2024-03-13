@@ -8,6 +8,23 @@
   },
   "themeConfig": [],
   "arrangement": {
-    
+    "exampleSite/content/english/authors": {
+      "weight": 0
+    },
+    "exampleSite/content/english/about": {
+      "weight": 1
+    },
+    "exampleSite/content/english/blog": {
+      "weight": 2
+    },
+    "exampleSite/content/english/contact": {
+      "weight": 3
+    },
+    "exampleSite/content/english/pages": {
+      "weight": 4
+    },
+    "exampleSite/content/english/sections": {
+      "weight": 5
+    }
   }
 }
