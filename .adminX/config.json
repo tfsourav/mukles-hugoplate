@@ -11,6 +11,9 @@
     "exampleSite/content/english/blog": {
       "blog-index": {
         "weight": 3
+      },
+       "blog-test": {
+        "weight": 1
       }
     }
   }
