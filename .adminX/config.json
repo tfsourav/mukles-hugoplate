@@ -10,27 +10,29 @@
   "arrangement": {
     "exampleSite/content/english/blog": {
       "blog-index": {
-        "weight": 4
+        "weight": 2
       },
-      "weight": 4
+      "weight": {
+        "weight": 4
+      }
     },
     "exampleSite/content/english/authors": {
-      "weight": 0
+      "weight": 1
     },
     "exampleSite/content/english/about": {
-      "weight": 2
+      "weight": 0
     },
     "exampleSite/content/english/blog/test": {
-      "weight": 3
-    },
-    "exampleSite/content/english/contact": {
       "weight": 5
     },
-    "exampleSite/content/english/pages": {
+    "exampleSite/content/english/contact": {
       "weight": 6
     },
-    "exampleSite/content/english/sections": {
+    "exampleSite/content/english/pages": {
       "weight": 7
+    },
+    "exampleSite/content/english/sections": {
+      "weight": 3
     }
   }
 }
