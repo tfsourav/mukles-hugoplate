@@ -11,28 +11,7 @@
     "exampleSite/content/english/blog": {
       "blog-index": {
         "weight": 2
-      },
-      "weight": {
-        "weight": 4
       }
-    },
-    "exampleSite/content/english/authors": {
-      "weight": 1
-    },
-    "exampleSite/content/english/about": {
-      "weight": 0
-    },
-    "exampleSite/content/english/blog/test": {
-      "weight": 5
-    },
-    "exampleSite/content/english/contact": {
-      "weight": 6
-    },
-    "exampleSite/content/english/pages": {
-      "weight": 7
-    },
-    "exampleSite/content/english/sections": {
-      "weight": 3
     }
   }
 }
