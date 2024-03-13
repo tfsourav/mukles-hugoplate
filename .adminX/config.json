@@ -10,10 +10,27 @@
   "arrangement": {
     "exampleSite/content/english/blog": {
       "blog-index": {
-        "include": "*.md",
-        "exclude": "!*index.md"
+        "weight": 1
       },
       "weight": 1
+    },
+    "exampleSite/content/english/authors": {
+      "weight": 0
+    },
+    "exampleSite/content/english/about": {
+      "weight": 2
+    },
+    "exampleSite/content/english/blog/test": {
+      "weight": 3
+    },
+    "exampleSite/content/english/contact": {
+      "weight": 4
+    },
+    "exampleSite/content/english/pages": {
+      "weight": 5
+    },
+    "exampleSite/content/english/sections": {
+      "weight": 6
     }
   }
 }
