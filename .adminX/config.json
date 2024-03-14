@@ -10,7 +10,7 @@
   "arrangement": {
     "exampleSite/content/english/blog": {
       "blog-index": {
-        "include": "*.md",
+        "include": "*index.md",
         "exclude": "!*index.md"
       },
       "blog-test": {
