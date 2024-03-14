@@ -1,0 +1,63 @@
+{
+  "file": "exampleSite/content/english/blog/post-1.md",
+  "type": "list",
+  "name": "blog",
+  "include": "*.md",
+  "exclude": "!*index.md",
+  "fileType": "md",
+  "fmType": "yaml",
+  "template": [
+    {
+      "label": "title",
+      "name": "title",
+      "type": "string",
+      "value": ""
+    },
+    {
+      "label": "meta_title",
+      "name": "meta_title",
+      "type": "string",
+      "value": ""
+    },
+    {
+      "label": "description",
+      "name": "description",
+      "type": "string",
+      "value": ""
+    },
+    {
+      "label": "date",
+      "name": "date",
+      "type": "Date",
+      "value": ""
+    },
+    {
+      "label": "image",
+      "name": "image",
+      "type": "media",
+      "value": ""
+    },
+    {
+      "label": "categories",
+      "name": "categories",
+      "type": "Array"
+    },
+    {
+      "label": "author",
+      "name": "author",
+      "type": "string",
+      "value": ""
+    },
+    {
+      "label": "tags",
+      "name": "tags",
+      "type": "Array"
+    },
+    {
+      "label": "draft",
+      "name": "draft",
+      "type": "boolean",
+      "value": ""
+    }
+  ]
+}
