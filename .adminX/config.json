@@ -27,6 +27,12 @@
         "include": "*.md",
         "exclude": "!*index.md"
       }
+    },
+    "exampleSite/content/english/blog/test": {
+      "blog": {
+        "include": "*.md",
+        "exclude": "!*index.md"
+      }
     }
   }
 }
