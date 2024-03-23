@@ -7,5 +7,12 @@
     "root": "exampleSite/content"
   },
   "themeConfig": [],
-  "arrangement": {}
+  "arrangement": {
+    "exampleSite/content/english/blog": {
+      "blog-list": {
+        "include": "*.md",
+        "exclude": "!*index.md"
+      }
+    }
+  }
 }
