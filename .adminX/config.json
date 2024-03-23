@@ -19,6 +19,12 @@
         "include": "*.md",
         "exclude": "!*index.md"
       }
+    },
+    "exampleSite/content/english/about": {
+      "about-test": {
+        "include": "*.md",
+        "exclude": "!*index.md"
+      }
     }
   }
 }
