@@ -21,6 +21,12 @@
         "include": "*.md",
         "exclude": "!*index.md, !_*index.mdx"
       }
+    },
+    "exampleSite/content/english/about": {
+      "about": {
+        "include": "*.md",
+        "exclude": "!*index.md"
+      }
     }
   }
 }
