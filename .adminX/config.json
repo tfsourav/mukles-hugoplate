@@ -7,32 +7,5 @@
     "root": "exampleSite/content"
   },
   "themeConfig": [],
-  "arrangement": {
-    "exampleSite/content/english/blog": {
-      "blog-list": {
-        "include": "*.md",
-        "exclude": "!*index.md"
-      },
-      "blog-index": {
-        "include": "*index.md",
-        "exclude": ""
-      },
-      "blog": {
-        "include": "*.md",
-        "exclude": "!*index.md, !_*index.mdx"
-      }
-    },
-    "exampleSite/content/english/about": {
-      "about": {
-        "include": "*.md",
-        "exclude": "!*index.md"
-      }
-    },
-    "exampleSite/content/english/blog/test": {
-      "blog": {
-        "include": "*.md",
-        "exclude": "!*index.md"
-      }
-    }
-  }
+  "arrangement": {}
 }
