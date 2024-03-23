@@ -25,6 +25,12 @@
         "include": "*.md",
         "exclude": "!*index.md"
       }
+    },
+    "exampleSite/content/english/contact": {
+      "contact-test": {
+        "include": "*.md",
+        "exclude": "!*index.md"
+      }
     }
   }
 }
