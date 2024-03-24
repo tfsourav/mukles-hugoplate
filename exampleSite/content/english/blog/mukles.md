@@ -1,5 +1,5 @@
 ---
-title: title....f
+title: title
 meta_title: ''
 description: ''
 date: ''
