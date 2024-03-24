@@ -1,5 +1,5 @@
 ---
-title: title
+title: title-demo
 meta_title: Meta title
 description: description
 date: ''
