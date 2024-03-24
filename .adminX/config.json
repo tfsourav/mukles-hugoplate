@@ -7,30 +7,5 @@
     "root": "exampleSite/content"
   },
   "themeConfig": [],
-  "arrangement": {
-    "exampleSite/content/english/blog": {
-      "blog": {
-        "include": "*.md",
-        "exclude": "!*index.md"
-      }
-    },
-    "exampleSite/content/english/authors": {
-      "blog": {
-        "include": "*.md",
-        "exclude": "!*index.md"
-      }
-    },
-    "exampleSite/content/english/about": {
-      "about-test": {
-        "include": "*.md",
-        "exclude": "!*index.md"
-      }
-    },
-    "exampleSite/content/english/contact": {
-      "contact-test": {
-        "include": "*.md",
-        "exclude": "!*index.md"
-      }
-    }
-  }
+  "arrangement": {}
 }
