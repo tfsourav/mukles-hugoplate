@@ -1,7 +1,7 @@
 ---
 title: title
-meta_title: ''
-description: ''
+meta_title: Meta title
+description: description
 date: ''
 image: ''
 categories: []
