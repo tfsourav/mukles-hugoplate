@@ -1,7 +1,7 @@
 {
   "media": {
     "root": "exampleSite/assets/images",
-    "public": "exampleSite/assets/images"
+    "public": "exampleSite/assets"
   },
   "content": {
     "root": "exampleSite/content"
@@ -10,12 +10,21 @@
   "arrangement": {
     "exampleSite/content/english/blog": {
       "blog-index": {
+        "weight": 0,
         "include": "*index.md",
         "exclude": ""
       },
       "blog-list": {
+        "weight": 1,
         "include": "*.md",
         "exclude": "!*index.md"
+      }
+    },
+    "exampleSite/content/english/authors": {
+      "author-list": {
+        "weight": 2,
+        "include": "*.md",
+        "exclude": ""
       }
     }
   }
