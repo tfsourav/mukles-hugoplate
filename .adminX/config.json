@@ -9,5 +9,13 @@
   "themeConfig": [
     "exampleSite/tailwind.config.js"
   ],
-  "arrangement": {}
+  "arrangement": {
+    "exampleSite/content/english/authors": {
+      "blog-list": {
+        "weight": 0,
+        "include": "*.md",
+        "exclude": "!*index.md"
+      }
+    }
+  }
 }
