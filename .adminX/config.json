@@ -9,5 +9,11 @@
   "themeConfig": [
     "exampleSite/tailwind.config.js"
   ],
-  "arrangement": {}
+  "arrangement": {
+    "exampleSite/content/english/authors/_index.md": {
+      "abc": {
+        "weight": 0
+      }
+    }
+  }
 }
