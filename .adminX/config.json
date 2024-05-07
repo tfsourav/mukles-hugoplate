@@ -8,23 +8,23 @@
   },
   "themeConfig": [],
   "arrangement": {
+    "exampleSite/content/english/authors": {
+      "author-list": {
+        "weight": 0,
+        "include": "*.md",
+        "exclude": ""
+      }
+    },
     "exampleSite/content/english/blog": {
       "blog-index": {
-        "weight": 0,
+        "weight": 1,
         "include": "*index.md",
         "exclude": ""
       },
       "blog-list": {
-        "weight": 1,
-        "include": "*.md",
-        "exclude": "!*index.md"
-      }
-    },
-    "exampleSite/content/english/authors": {
-      "author-list": {
         "weight": 2,
         "include": "*.md",
-        "exclude": ""
+        "exclude": "!*index.md"
       }
     }
   }
