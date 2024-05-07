@@ -9,13 +9,5 @@
   "themeConfig": [
     "exampleSite/tailwind.config.js"
   ],
-  "arrangement": {
-    "exampleSite/content/english/authors": {
-      "author-list": {
-        "weight": 0,
-        "include": "*.md",
-        "exclude": ""
-      }
-    }
-  }
+  "arrangement": {}
 }
