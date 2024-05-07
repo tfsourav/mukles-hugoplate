@@ -12,7 +12,7 @@
       "author-list": {
         "weight": 0,
         "include": "*.md",
-        "exclude": ""
+        "exclude": "!*index.md"
       }
     },
     "exampleSite/content/english/blog": {
