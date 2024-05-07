@@ -26,6 +26,13 @@
         "include": "*.md",
         "exclude": "!*index.md"
       }
+    },
+    "exampleSite/content/english/pages": {
+      "pages": {
+        "weight": 3,
+        "include": "*.md",
+        "exclude": ""
+      }
     }
   }
 }
