@@ -9,5 +9,13 @@
   "themeConfig": [
     "exampleSite/tailwind.config.js"
   ],
-  "arrangement": {}
+  "arrangement": {
+    "exampleSite/content/english/blog": {
+      "blog-list": {
+        "weight": 0,
+        "include": "",
+        "exclude": ""
+      }
+    }
+  }
 }
