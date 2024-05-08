@@ -10,20 +10,20 @@
     "exampleSite/tailwind.config.js"
   ],
   "arrangement": {
-    "exampleSite/content/english/authors": {
-      "blog-list": {
-        "weight": 0,
-        "include": "*.md",
-        "exclude": "!*index.md"
+    "exampleSite/content/english/authors/_index.md": {
+      "abc": {
+        "weight": 0
       }
     },
     "Test Heading 2": {
       "type": "heading",
       "weight": 1
     },
-    "exampleSite/content/english/authors/_index.md": {
-      "abc": {
-        "weight": 2
+    "exampleSite/content/english/authors": {
+      "blog-list": {
+        "weight": 2,
+        "include": "*.md",
+        "exclude": "!*index.md"
       }
     }
   }
