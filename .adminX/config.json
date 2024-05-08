@@ -16,6 +16,11 @@
         "include": "",
         "exclude": ""
       }
+    },
+    "exampleSite/content/english/_index.md": {
+      "abc": {
+        "weight": 1
+      }
     }
   }
 }
