@@ -1,0 +1,14 @@
+{
+  "media": {
+    "root": "exampleSite/assets",
+    "public": "exampleSite"
+  },
+  "content": {
+    "root": "exampleSite/content"
+  },
+  "themeConfig": [
+    "exampleSite/config",
+    ".github"
+  ],
+  "arrangement": {}
+}
