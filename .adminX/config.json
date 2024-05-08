@@ -14,16 +14,16 @@
       "type": "heading",
       "weight": 0
     },
-    "exampleSite/content/english/blog": {
-      "blog-list": {
-        "weight": 1,
-        "include": "",
-        "exclude": ""
+    "files/exampleSite/content/english/_index.md": {
+      "abc": {
+        "weight": 1
       }
     },
-    "exampleSite/content/english/_index.md": {
-      "abc": {
-        "weight": 2
+    "exampleSite/content/english/blog": {
+      "blog-list": {
+        "weight": 2,
+        "include": "",
+        "exclude": ""
       }
     }
   }
