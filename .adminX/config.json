@@ -10,14 +10,14 @@
     "exampleSite/tailwind.config.js"
   ],
   "arrangement": {
-    "exampleSite/content/english/authors/_index.md": {
-      "abc": {
-        "weight": 0
-      }
-    },
     "Test Heading 2": {
       "type": "heading",
-      "weight": 1
+      "weight": 0
+    },
+    "exampleSite/content/english/authors/_index.md": {
+      "abc": {
+        "weight": 1
+      }
     },
     "exampleSite/content/english/authors": {
       "blog-list": {
