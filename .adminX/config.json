@@ -21,6 +21,10 @@
       "abc": {
         "weight": 1
       }
+    },
+    "Test Heading": {
+      "type": "heading",
+      "weight": 2
     }
   }
 }
