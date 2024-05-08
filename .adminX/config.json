@@ -10,5 +10,13 @@
     "exampleSite/config",
     ".github"
   ],
-  "arrangement": {}
+  "arrangement": {
+    "exampleSite/content/english/blog": {
+      "blog-list": {
+        "weight": 0,
+        "include": "",
+        "exclude": "!*index.md"
+      }
+    }
+  }
 }
