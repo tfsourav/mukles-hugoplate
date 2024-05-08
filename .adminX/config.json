@@ -17,6 +17,13 @@
         "include": "",
         "exclude": "!*index.md"
       }
+    },
+    "exampleSite/content/english/pages": {
+      "blog-list": {
+        "weight": 1,
+        "include": "*.md",
+        "exclude": "!*index.md"
+      }
     }
   }
 }
