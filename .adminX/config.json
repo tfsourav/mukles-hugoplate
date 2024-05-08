@@ -20,6 +20,11 @@
     "Test Heading 2": {
       "type": "heading",
       "weight": 1
+    },
+    "exampleSite/content/english/authors/_index.md": {
+      "abc": {
+        "weight": 2
+      }
     }
   }
 }
