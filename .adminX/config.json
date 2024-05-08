@@ -10,18 +10,18 @@
     "exampleSite/tailwind.config.js"
   ],
   "arrangement": {
+    "Test Heading": {
+      "type": "heading",
+      "weight": 0
+    },
     "exampleSite/content/english/blog": {
       "blog-list": {
-        "weight": 0,
+        "weight": 1,
         "include": "",
         "exclude": ""
       }
     },
-    "Test Heading": {
-      "type": "heading",
-      "weight": 1
-    },
-    "exampleSite/content/english/_index.md": {
+    "files/exampleSite/content/english/_index.md": {
       "abc": {
         "weight": 2
       }
