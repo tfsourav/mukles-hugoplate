@@ -21,8 +21,8 @@
         "exclude": ""
       }
     },
-    "files/exampleSite/content/english/blog/post-1.md": {
-      "post-1": {
+    "exampleSite/content/english/_index.md": {
+      "abc": {
         "weight": 2
       }
     }
