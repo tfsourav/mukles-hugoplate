@@ -9,22 +9,5 @@
   "themeConfig": [
     "exampleSite/tailwind.config.js"
   ],
-  "arrangement": {
-    "Test Heading": {
-      "type": "heading",
-      "weight": 0
-    },
-    "exampleSite/content/english/blog": {
-      "blog-list": {
-        "weight": 1,
-        "include": "",
-        "exclude": ""
-      }
-    },
-    "files/exampleSite/content/english/_index.md": {
-      "abc": {
-        "weight": 2
-      }
-    }
-  }
+  "arrangement": {}
 }
