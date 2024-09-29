@@ -1,5 +1,5 @@
 ---
-title: MOkels
+title: Mokles
 meta_title: About
 description: this is meta description
 image: /images/abc/Screenshot 2024-05-07 at 1.40.48 pm.png
