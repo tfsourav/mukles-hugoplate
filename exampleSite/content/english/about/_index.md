@@ -1,5 +1,5 @@
 ---
-title: Mokles sdfghjkl;
+title: Mokles
 meta_title: About
 description: this is meta description
 image: /images/gallery/03.jpg
