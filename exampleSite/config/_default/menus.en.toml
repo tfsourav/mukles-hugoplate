@@ -1,6 +1,6 @@
-############# English navigation ##############
++++
+draft = false
 
-# main menu
 [[main]]
 name = "Home"
 url = "/"
@@ -46,8 +46,6 @@ parent = "Pages"
 name = "404 Page"
 url = "404/"
 
-
-# footer menu
 [[footer]]
 name = "About"
 url = "about/"
@@ -62,3 +60,4 @@ weight = 2
 name = "Privacy Policy"
 url = "privacy-policy/"
 weight = 3
++++
