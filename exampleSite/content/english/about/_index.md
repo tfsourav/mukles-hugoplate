@@ -1,5 +1,5 @@
 ---
-title: Mokles draft false
+title: Mokles draft
 meta_title: About
 description: this is meta description
 image: /images/gallery/05.jpg
