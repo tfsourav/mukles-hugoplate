@@ -1,5 +1,5 @@
 ---
-title: 2024-11-15T18:00:00.000Z
+title: "title"
 meta_title: About
 description: this is meta description
 image: /images/gallery/05.jpg
