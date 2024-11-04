@@ -7,7 +7,7 @@
     {
       "label": "Title",
       "name": "title",
-      "type": "boolean",
+      "type": "Date",
       "value": "",
       "description": "this is description",
       "isRequired": true
