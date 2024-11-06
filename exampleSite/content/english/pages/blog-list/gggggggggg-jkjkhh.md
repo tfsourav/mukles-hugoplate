@@ -1,6 +1,6 @@
 ---
 title: qwertyuiop
 meta_title: asdfghjkl
-description: zxcvbnm,.
+description: zxcvbnm
 draft: false
 ---
