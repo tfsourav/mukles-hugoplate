@@ -1,6 +1,6 @@
 ---
-title: contac
+title: contact
 meta_title: ''
 description: this is meta description
-draft: true
+draft: false
 ---
