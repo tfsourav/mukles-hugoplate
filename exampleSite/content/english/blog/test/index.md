@@ -1,3 +1,3 @@
 ---
-title: Titlefsadf sa asd asd
+title: The title
 ---
