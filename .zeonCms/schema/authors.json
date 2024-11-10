@@ -1,0 +1,14 @@
+{
+  "file": "exampleSite/content/english/authors/_index.md",
+  "name": "authors",
+  "fileType": "md",
+  "fmType": "yaml",
+  "template": [
+    {
+      "label": "Title",
+      "name": "title",
+      "type": "string",
+      "value": ""
+    }
+  ]
+}
