@@ -7,7 +7,7 @@
     {
       "label": "Title",
       "name": "title",
-      "type": "boolean",
+      "type": "string",
       "value": ""
     }
   ]
