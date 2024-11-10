@@ -8,7 +8,8 @@
       "label": "Title",
       "name": "title",
       "type": "string",
-      "value": ""
+      "value": "",
+      "isRequired": true
     }
   ]
 }
