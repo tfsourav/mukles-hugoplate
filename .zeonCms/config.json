@@ -6,6 +6,8 @@
   "content": {
     "root": "exampleSite/content"
   },
-  "themeConfig": [],
+  "themeConfig": [
+    "exampleSite/config"
+  ],
   "arrangement": {}
 }
