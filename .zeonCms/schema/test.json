@@ -10,7 +10,7 @@
       "type": "string",
       "value": "",
       "description": "this is description",
-      "isRequired": true
+      "isRequired": false
     }
   ]
 }
