@@ -9,5 +9,5 @@
   "themeConfig": [
     "exampleSite/config"
   ],
-  "arrangement": {}
+  "arrangement": []
 }
