@@ -1,6 +1,6 @@
 ---
 title: title
-meta_title: ''
+meta_title: meta title
 description: This is meta description
 draft: false
 ---
