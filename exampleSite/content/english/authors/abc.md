@@ -1,7 +1,9 @@
 +++
-title = "TOML"
-description = "Front matter"
-categories = "front matter toml"
+title = "About"
+[menu]
+  [menu.main]
+    identifier = "about"
+    weight = 10
 +++
 
 
