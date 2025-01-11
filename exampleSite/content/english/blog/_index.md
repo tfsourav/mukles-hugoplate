@@ -29,7 +29,7 @@ UI developers and web developers are two different types of developers that ofte
 
 **UI Developer**
 
-UI developers are responsible for a website's overall design and user experience. They work with web designers to create the layout and visual elements of a website. UI developers also code the front-end components of a website, such as buttons, drop-down menus, and form fields. In addition to coding skills, UI developers should have strong communication and collaboration skills, as they will be working closely with other development team members.
+UI developers are responsible for a website's overall design and user experience. They work with web designers to create the layout and visual elements of a website. UI developers also code the front-**end** components of a website, such as buttons, drop-down menus, and form fields. In addition to coding skills, UI developers should have strong communication and collaboration skills, as they will be working closely with other development team members.
 
 **Web Developer**
 
