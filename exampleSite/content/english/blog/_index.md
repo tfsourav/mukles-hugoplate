@@ -1,8 +1,8 @@
 ---
 title: Complete Guideline To Become A UI Developer
 meta_title: Complete Guideline To Become A UI Developer | UIHut
-date: 2025-01-08T18:00:00.000Z
-last_update: 2025-01-08T18:00:00.000Z
+date: '2025-01-08T18:00:00.000Z'
+last_update: 2025-01-13T18:00:00.000Z
 image: /images/Complete-Guideline-To-Become-A-UI-Developer(1).webp
 author: Mehedi Sharif
 description: >-
