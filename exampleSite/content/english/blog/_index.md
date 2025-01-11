@@ -17,7 +17,7 @@ Do you want to be a [UI](https://web.archive.org/web/20221203033019/https://www.
 
 ## **What Is UI Development?**
 
-![](</images/UH46FE5V4tOPNBX8 (1).png>)
+![](</images/Screenshot 2024-03-10 at 10.46.11 am.png>)
 
 User interface (UI) development is the process of designing, creating, and implementing user interfaces for computers, mobile devices, websites, and applications. A UI developer is responsible for the overall look and feel of the user interface and its utility.
 
@@ -37,8 +37,9 @@ Web developers are responsible for the back-end development of a website. This i
 
 ## **How Much Do UI Developers Make?**
 
-![](</images/UH46qfWb090YbKlK (1).png>)
+![](/images/436259823_951858266728311_6369436763948135730_n.jpg)
 When you become a UI Developer, you will know when to stop and take a rest, trust us!. According to [Glassdoor](https://www.glassdoor.com/), the average base pay for a UI developer is $85,000 per year. The national average salary for a UI developer is $92,462, but salaries can range from $54,000 to $145,000 per year.
+==============================================================================================================================================================================================================================================================================================================================
 
 The outlook for UI developers is positive, with the [Bureau of Labor Statistics](https://www.bls.gov/) projecting a 20 percent growth in employment for web developers between 2016 and 2026. Overall, this growth is much slower than the average for all professions. As more businesses move their operations online, they will need UI developers to create user-friendly websites and applications. If you're interested in becoming a UI developer, you should consider pursuing a degree in computer science or web development. You can also learn the necessary skills through coding boot camps or [online courses](https://www.coursera.org/learn/frontend-development-using-react). Once you have the skillset, be sure to [showcase your work](https://github.com/) on your portfolio and apply for jobs at companies that interest you. You can achieve your career goals as a UI developer with hard work and dedication.
 
