@@ -2,7 +2,7 @@
 title: Sam Wilson
 email: samwilson@email.com
 image: /images/avatar.png
-description: this is meta description
+description: this is meta  FASF ASDF
 social:
   - name: github
     icon: fa-brands fa-github
