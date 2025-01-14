@@ -1,9 +1,7 @@
 {
   "media": {
     "root": "exampleSite/assets/images",
-    "public": "exampleSite/assets",
-    "public1": "exampleSite/assets"
-
+    "public": "exampleSite/assets/"
   },
   "content": {
     "root": "exampleSite/content"
@@ -11,5 +9,6 @@
   "themeConfig": [
     "exampleSite/config"
   ],
-  "arrangement": []
+  "arrangement": [],
+  "showCommitModal": true
 }
