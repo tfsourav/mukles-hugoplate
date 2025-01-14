@@ -9,6 +9,14 @@
   "themeConfig": [
     "exampleSite/config"
   ],
-  "arrangement": [],
+  "arrangement": [
+    {
+      "type": "folder",
+      "targetPath": "exampleSite/content",
+      "groupName": "Blogs",
+      "include": "*.md, *.mdx",
+      "exclude": "!index.md"
+    }
+  ],
   "showCommitModal": true
 }
