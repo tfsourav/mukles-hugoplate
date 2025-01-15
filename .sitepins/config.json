@@ -19,6 +19,11 @@
           "name": "heading",
           "label": "Heading",
           "type": "string"
+        },
+        {
+          name: "title",
+          label:  "title",
+          type: "rich-text"
         }
       ]
     }
