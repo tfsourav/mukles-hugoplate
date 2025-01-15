@@ -8,5 +8,19 @@
   },
   "themeConfig": [],
   "arrangement": [],
-  "showCommitModal": false
+  "showCommitModal": false,
+  "templates": [
+    {
+      "key": "cta",
+      "name": "Cta",
+      "label": "Cta",
+      "fields": [
+        {
+          "name": "heading",
+          "label": "Heading",
+          "type": "string"
+        }
+      ]
+    }
+  ]
 }
