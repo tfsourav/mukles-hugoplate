@@ -10,5 +10,21 @@
     "exampleSite/config"
   ],
   "arrangement": [],
-  "showCommitModal": true
+  "showCommitModal": true,
+  {
+  "templates": [
+    {
+      "key": "cta",
+      "name": "Cta",
+      "label": "Cta",
+      "fields": [
+        {
+          "name": "heading",
+          "label": "Heading",
+          "type": "string"
+        }
+      ]
+    }
+  ]
+}
 }
