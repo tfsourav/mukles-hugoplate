@@ -18,7 +18,7 @@
         {
           "name": "title",
           "label":  "title",
-          "type": "rich-text"
+          "type": "string"
         },
         {
           "name": "heading",
