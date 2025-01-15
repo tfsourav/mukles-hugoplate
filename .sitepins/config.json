@@ -21,9 +21,9 @@
           "type": "string"
         },
         {
-          name: "title",
-          label:  "title",
-          type: "rich-text"
+          "name": "title",
+          "label":  "title",
+          "type": "rich-text"
         }
       ]
     }
