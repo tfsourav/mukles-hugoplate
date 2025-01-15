@@ -16,14 +16,14 @@
       "label": "Cta",
       "fields": [
         {
-          "name": "heading",
-          "label": "Heading",
-          "type": "string"
-        },
-        {
           "name": "title",
           "label":  "title",
           "type": "rich-text"
+        },
+        {
+          "name": "heading",
+          "label": "Heading",
+          "type": "string"
         }
       ]
     }
