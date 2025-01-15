@@ -11,7 +11,6 @@
   ],
   "arrangement": [],
   "showCommitModal": true,
-  {
   "templates": [
     {
       "key": "cta",
@@ -26,5 +25,4 @@
       ]
     }
   ]
-}
 }
