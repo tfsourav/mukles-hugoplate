@@ -1,6 +1,4 @@
 ---
-opinion:
-  title: WHAT THEY ARE SAYING
   lists:
     - image: /images/revenue.png
       title: More Revenue
