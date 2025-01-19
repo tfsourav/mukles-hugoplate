@@ -4,7 +4,6 @@ lists:
       desc: Set dynamic pricing, permits and enforcement.
     - title: Experience
       desc: Go live with a best-in-class consumer experience.
-      image: /images/works/map.png
     - title: Control
       desc: Report immediate savings and higher earnings.
     - title: Install
