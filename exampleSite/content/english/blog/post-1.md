@@ -1,8 +1,8 @@
 ---
   lists:
-    - value: "hellow"
+    - value: ""
       title: More Revenue
-      value11: "1"
+      value11: ""
       desc: >-
         ~15-18% revenue increase through Advance Discovery & Reservations,
         Dynamic Pricing & Differentiated Pricing and Real-time Enforcement
