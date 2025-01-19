@@ -2,6 +2,7 @@
   lists:
     - image: /images/revenue.png
       title: More Revenue
+      value: ""
       desc: >-
         ~15-18% revenue increase through Advance Discovery & Reservations,
         Dynamic Pricing & Differentiated Pricing and Real-time Enforcement
