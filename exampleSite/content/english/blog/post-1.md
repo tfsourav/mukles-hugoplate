@@ -1,16 +1,11 @@
 ---
-updates:
-  enable: enable
-  title: "Updates Sections"
-  service_item:
-    # service item loop
-    - title: "COMING SOON! Newly Negotiated Contract"
-      images:
+images:
         - "images/updates/in-solidarity.png"
         - "images/updates/in-solidarity.png"
         - "images/updates/in-solidarity.png"
         - "images/updates/in-solidarity.png"
         - "images/updates/in-solidarity.png"
+      
 ---
 Nemo vel ad consectetur namut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.
 
