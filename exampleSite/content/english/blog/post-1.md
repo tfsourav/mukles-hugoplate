@@ -1,5 +1,5 @@
 ---
-title: Project Documentatio
+title: Project Documentation
 author: John Doe
 date: '2025-02-03'
 version: '1.0'
