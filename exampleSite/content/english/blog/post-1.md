@@ -37,8 +37,9 @@ config:
           enabled: true
         - type: tasks
           enabled: false
+draft: false
 ---
-# Project Documentation
+#
 
 ## Overview
 
@@ -66,7 +67,7 @@ This document provides detailed information about the project's structure, inclu
       "city": "New York",
       "state": "NY",
       "postalCode": "10001",
-      
+      "country": "USA"
     }
   }
 }
