@@ -37,7 +37,9 @@ config:
           enabled: true
         - type: tasks
           enabled: false
-draft: false
+draft:
+  value: false
+  id: 37e7c6e5-4ea5-4cdd-8e97-3d8d077fd2b7
 ---
 # Project Documentation
 
