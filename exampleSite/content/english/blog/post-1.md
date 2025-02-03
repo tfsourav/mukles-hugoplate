@@ -37,7 +37,7 @@ config:
           enabled: true
         - type: tasks
           enabled: false
-draft: false
+draft: true
 ---
 # Project Documentation
 
