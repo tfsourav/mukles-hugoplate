@@ -37,9 +37,7 @@ config:
           enabled: true
         - type: tasks
           enabled: false
-draft:
-  value: false
-  id: 37e7c6e5-4ea5-4cdd-8e97-3d8d077fd2b7
+draft: false
 ---
 # Project Documentation
 
@@ -74,3 +72,5 @@ This document provides detailed information about the project's structure, inclu
   }
 }
 ```
+
+<Cta />
