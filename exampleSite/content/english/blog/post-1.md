@@ -37,13 +37,13 @@ config:
           enabled: true
         - type: tasks
           enabled: false
-draft: true
+draft: false
 ---
 # Project Documentation
 
 ## Overview
 
-This document provides detailed information about the project's structure, including configurations, settings, and more.
+This document provides detailed information about the project's structure, including configurations, settings and more.
 
 ## Schema
 
