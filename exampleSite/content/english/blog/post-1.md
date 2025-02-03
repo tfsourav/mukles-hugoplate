@@ -47,7 +47,7 @@ This document provides detailed information about the project's structure, inclu
 
 ## Schema
 
-```json
+```
 {
   "user": {
     "name": "John Doe",
