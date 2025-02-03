@@ -1,5 +1,5 @@
 ---
-title: Project Documentation
+title: Project Documentatio
 author: John Doe
 date: '2025-02-03'
 version: '1.0'
@@ -37,9 +37,7 @@ config:
           enabled: true
         - type: tasks
           enabled: false
-draft:
-  value: false
-  id: 944f6d1a-a403-4f4b-ab4f-4e7a81063b54
+draft: false
 ---
 # Project Documentation
 
