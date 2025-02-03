@@ -6,5 +6,8 @@ list:
   - title:
       - nested_list: ajsdfla
       - nested_list: afsda
-        nested_item: fajlsdjf
+        nested_item:
+          - item_1: example1
+          - item_2: example2
+          - item_3: example3
 ---
