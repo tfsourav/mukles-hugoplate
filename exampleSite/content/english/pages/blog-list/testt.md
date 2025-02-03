@@ -1,6 +1,7 @@
 ---
 title: test
-meta_title: ''
-description: ''
-draft: true
+meta_title: test
+description: test
+draft: false
 ---
+test
