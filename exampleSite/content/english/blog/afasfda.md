@@ -4,7 +4,10 @@ meta_title: ''
 description: ''
 date: ''
 image: ''
-categories: []
+categories:
+  - ''
+  - ''
+  - ''
 author: ''
 tags: []
 draft: false
