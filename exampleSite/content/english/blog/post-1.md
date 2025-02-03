@@ -72,5 +72,3 @@ This document provides detailed information about the project's structure, inclu
   }
 }
 ```
-
-<Cta />
