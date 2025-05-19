@@ -4,8 +4,9 @@ meta_title: ''
 description: ''
 date: ''
 image: ''
-categories: []
+categories:
+  - mukles
 author: ''
 tags: []
-draft: true
+draft: false
 ---
